@@ -1,0 +1,1 @@
+./llama-cli -m /nvme/longlingkun/models/llama3-8b-q4_K.gguf -p "I believe the meaning of life is" -n 128
